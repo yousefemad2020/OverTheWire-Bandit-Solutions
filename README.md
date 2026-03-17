@@ -1,16 +1,17 @@
-# OverTheWire-Bandit-Solutions
-A comprehensive guide and write-up for OverTheWire's Bandit wargame, focusing on Linux commands, file systems, and security fundamentals.
+# OverTheWire Solutions
 
-🚩 OverTheWire: Bandit - Labs & Writeups
-🎯 Objective
-Mastering Linux Fundamentals, Command-Line Interface (CLI), and Security Basics through hands-on practice.
-🛠️ Key Skills Learned
-Navigation: ls, cd, find, cat.
-Filtering: grep, sort, uniq, strings.
-Security: ssh, permissions, base64 decoding.
+This repository contains my personal solutions and walkthroughs for the **OverTheWire** wargames. Each folder represents a different game level or category.
 
-### 📝 Level Progression
-| Level | Key Commands / Concepts | Link to Solution |
-| :--- | :--- | :--- |
-| **0 ➔ 1** | `ls`, `cat`, `-` filename | [Solution](./level0-1.md) |
-| **1 ➔ 2** | `find`, `grep`, `spaces in names` | [Solution](./level1-2.md) |
+## 📂 Repository Structure
+
+* **/bandit**: Solutions for Bandit (Basic Linux commands & security).
+* **/natas**: Solutions for Natas (Web security).
+* **/krypton**: Solutions for Krypton (Cryptography).
+* **/leviathan**: (Optional) Solutions for Leviathan.
+
+## 🚀 How to Use
+1. Choose the game folder you are interested in.
+2. Read the write-up or scripts provided for each level.
+
+## ⚖️ Disclaimer
+These solutions are for **educational purposes only**. I highly recommend trying to solve the levels yourself before looking at the answers!
